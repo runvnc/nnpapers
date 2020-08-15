@@ -7,11 +7,11 @@ the perspective of a programmer trying to code them, the original papers seem to
 
 ## Backpropagation
 
-[Learning Representations by Back-propagating Errors](Learning Representations by Back-propagating errors.pdf)
+[Learning Representations by Back-propagating Errors](hinton86.pdf)
 
 
 ## Convolution
 
-[]()
+[Object Recognition with Gradient-Based Learning](lecun99.pdf)
 
 
